@@ -1,6 +1,7 @@
 # FUCK-MATA-SIDEBAR
 
 ![image](https://github.com/bass9030/FUCK-MATA-SIDEBAR/blob/main/images/fuck%20sidebar.png?raw=true)
+
 마타수학 업데이트 후 기기 넓이 상관없이 무조건 뜨는 사이드바를 이전 사양(1280px 이하 기기에선 사이드바 숨김)으로 수정합니다.
 
 ## 설치방법
